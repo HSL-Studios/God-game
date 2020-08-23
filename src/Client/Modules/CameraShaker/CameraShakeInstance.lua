@@ -9,6 +9,7 @@
 --]]
 
 --[myelin sheath]
+--tee
 
 local CameraShakeInstance = {}
 CameraShakeInstance.__index = CameraShakeInstance
